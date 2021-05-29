@@ -1,0 +1,9 @@
+/.npmrc
+/.prettierrc
+/altv-server.exe
+/Backup
+/cache
+/crashdumps
+/marker.json
+/node_modules
+/server.log
